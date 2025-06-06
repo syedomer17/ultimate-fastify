@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+  "target": "ES6",
+  "module": "NodeNext",
+  "moduleResolution": "NodeNext",
+  "rootDirs": ["./src"],
+  "outDir": "./dist",
+  "esModuleInterop": true,
+  "strict": true,
+  "forceConsistentCasingInFileNames": true,
+  "skipLibCheck": true,
+
+  // ✅ Decorator support
+  "experimentalDecorators": true,
+  "emitDecoratorMetadata": true
+}
+}
